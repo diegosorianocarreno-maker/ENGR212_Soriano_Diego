@@ -1,0 +1,1 @@
+echo "Go Gators!" > Lab1.txt
